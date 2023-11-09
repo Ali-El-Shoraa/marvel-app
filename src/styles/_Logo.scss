@@ -1,0 +1,13 @@
+.logo {
+  padding: 40px 0;
+  .container {
+    @media (max-width: 767px) {
+      text-align: center;
+    }
+    a {
+      font-size: 40px;
+      font-weight: bold;
+      color: red;
+    }
+  }
+}
